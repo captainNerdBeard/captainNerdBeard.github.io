@@ -1,5 +1,5 @@
 ---
-title: Appetite and Activis,
+title: Appetite and Activism,
 date: 2024-02-14 19:45:00 +000
 categories: [activism, food]
 tags: [quote, fermentation] # TAG names should always be lowercase
