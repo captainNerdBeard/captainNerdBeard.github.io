@@ -16,7 +16,7 @@ timezone: Europe/London
 
 title: Bas Dot Scot # the main title
 
-tagline: The bottom of the Digital Garden # it will display as the sub-title
+tagline: The shed at the bottom of the Digital Garden # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Welcome to the shed at the bottom of the Digital Garden. Grab a log.
@@ -66,7 +66,7 @@ goatcounter:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: light
+theme_mode: #
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url

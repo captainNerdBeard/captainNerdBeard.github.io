@@ -1,8 +1,8 @@
 ---
 title: Appetite and Activism,
 date: 2024-02-14 19:45:00 +000
-categories: [activism, food]
-tags: [quote, fermentation] # TAG names should always be lowercase
+categories: [food]
+tags: [quote, fermentation, activism] # TAG names should always be lowercase
 ---
 
 > Resistance takes place on many planes. Occasionally it can be dramatic and public, but most of the decisions we are faced with are mundane and private.
