@@ -1,6 +1,6 @@
 ---
 title: Getting Ready for Cycle 2,
-date: 2024-09-20 14:00:00 +000
+date: 2024-09-19 00:00:00 +000
 categories: [health]
 tags: [nhs, cancer, leukemia, hcl] # TAG names should always be lowercase
 ---
