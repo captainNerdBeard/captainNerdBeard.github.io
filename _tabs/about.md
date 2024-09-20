@@ -4,5 +4,14 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+| Dad
+| Daddy
+| Bisexual
+| Out & Loud
+| Chronic Cancer 🎗️
+| ACA, indeed, B
+| He/Him
+
+#### credits
+
+favicon: <a href="https://www.flaticon.com/free-icons/shed" title="shed icons">Shed icons created by Freepik - Flaticon</a>
