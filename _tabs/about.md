@@ -4,6 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+![Sneaky Bas](/assets/img/sneakySideways.jpg){: .left }
+
 | Dad
 | Daddy
 | Bisexual
@@ -12,6 +14,6 @@ order: 4
 | ACA, indeed, B
 | He/Him
 
-#### credits
+#### attributions
 
 favicon: <a href="https://www.flaticon.com/free-icons/shed" title="shed icons">Shed icons created by Freepik - Flaticon</a>
