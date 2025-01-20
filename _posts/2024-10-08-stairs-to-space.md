@@ -18,6 +18,8 @@ Alas, I lack Bezos-level funds to build and launch any kind of rocket (plus, the
 So I will get on the stair climbing machine in my local gym as many times as I can muster before the year is out, and by then I will have reached the edge of space, the Kármán line, which is 100 kilometres (20,000 floors) straight up.
 That's approximately 500,000 stair steps. Oof.
 
+If you'd like to see me suffer and if you would like to encourage me to do it some more, please go to https://www.justgiving.com/page/stairstospace to donate.
+
 ![my nemesis, the climber](/assets/img/stairs.jpeg)
 
 ### Wish me luck.
