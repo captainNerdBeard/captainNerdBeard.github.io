@@ -24,7 +24,7 @@ which means an approximate AVERAGE of 60 floors a day, every day.
 
 (I will probably not be hoofing it every single day for the rest of the year, so in reality 120 floors every other day)
 ```
-[^1]: The LifeConnect Powermill I'll be using for the bulk of this effort considers "1 floor" to be 5 metres and 25 steps.
+^1: The LifeConnect Powermill I'll be using for the bulk of this effort considers "1 floor" to be 5 metres and 25 steps.
 
 ## Tracking my slow ascent into madness
 I don't wear fitness trackers anymore, partly because I don't want my fitness and health information to be handled by people who aren't me or my actual doctor, and also because I'm poor and clumsy (a killer combo for fancy gadgets). So this is going to have to be good old fashioned Tracking By Hand! 
