@@ -37,4 +37,4 @@ I may change my mind though and publish everything, though. Who knows. I' m a fi
 - [Justgiving Page](https://www.justgiving.com/page/stairstospace)
 - [Drake Music Scotland](https://www.drakemusicscotland.org)
 
-![Starting at Zero](/assets/img/update/0127StairsUpdate.png "Starting at Zero")
+![Starting at Zero](/assets/img/update/0127StairsUpdate.png "Starting at Zero"){: l=200}
