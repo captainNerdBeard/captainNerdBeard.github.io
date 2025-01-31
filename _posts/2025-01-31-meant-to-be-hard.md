@@ -1,5 +1,5 @@
 ---
-title: (T minus 1) - It's meant to be hard
+title: It's meant to be hard
 date: 2025-01-31 11:00:00 +000
 categories: [Stairs]
 tags: [fundraising, update, health] # TAG names should always be lowercase
