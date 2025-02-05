@@ -8,6 +8,8 @@ media_subpath: /assets/img/
 
 **Right then. Tomorrow's the day where I start proper, and today is a day where I am kind to myself. (Realistically, it's also the only day in the next couple of months where my legs won't be hurting, but let's not think about that right now.)**
 
+> https://www.justgiving.com/page/stairstospace
+
 I think I'm ready. It's obviously going to be hard, but _challenges are supposed to be hard_. I'm not 'jumping out of a plane for charity' which always seems a little strange to me, as it's probably something you were going to do anyway, but any amount of fundraising is good so I'm not complaining. 
 
 My whole mind is split down the middle about this challenge, because Lazy Bas _does not_ want to do this, he want to eat carbs in the bath and watch movies, but Active Bas wants to see what happens when you set yourself a ridiculous goal and just...go for it.
