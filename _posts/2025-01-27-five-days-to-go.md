@@ -38,3 +38,4 @@ I may change my mind though and publish everything, though. Who knows. I' m a fi
 - [Drake Music Scotland](https://www.drakemusicscotland.org)
 
 ![Starting at Zero](/assets/img/update/0127StairsUpdate.png "Starting at Zero"){: l=200}
+

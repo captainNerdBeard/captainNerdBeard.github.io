@@ -34,4 +34,4 @@ But I got through that with help and tenacity, so really: I reckon I'm ready.
 
 ![Trophy from the Bad Timing Awards](/assets/img/Wrist.jpeg "My wrist in a splint")
 
-**Let's GO!**
+**Let's GO**

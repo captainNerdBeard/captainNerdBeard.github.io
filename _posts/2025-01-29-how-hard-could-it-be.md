@@ -7,4 +7,3 @@ media_subpath: /assets/img/
 ---
 
 {% include embed/youtube.html id="gQRQWNos9TI" %}
-

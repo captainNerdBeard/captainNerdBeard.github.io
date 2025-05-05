@@ -15,3 +15,4 @@ tags: [quote, fermentation, activism] # TAG names should always be lowercase
 > We can merge appetite with activism and choose to involve ourselves in food as cocreators.
 >
 > _Sandor Ellix Katz: Wild Fermentation_
+

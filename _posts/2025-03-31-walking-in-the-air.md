@@ -52,5 +52,3 @@ AVERAGE VIBES: 3.3 out of 5
 
 ### Tendon-cies
 I was being treated by a massage therapist two weeks ago (she's awesome), who managed to demonstrate quite how highly strung my legs are by making my hamstring cramp up thoroughly with barely any manipulation. As I expected, the tendons along my legs are my biggest source of physical stress. I'm now putting more effort into stretching, massaging and relaxing my legs. I hope it helps.
-
-
