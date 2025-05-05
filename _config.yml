@@ -76,7 +76,7 @@ theme_mode: #
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://media.mastodon.scot/accounts/avatars/109/319/083/485/926/498/original/717973ae13775922.png
+avatar: https://media.mastodon.scot/media_attachments/files/114/455/844/844/890/308/original/afe52f83417f180d.jpeg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
