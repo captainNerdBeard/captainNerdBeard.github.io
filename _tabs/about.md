@@ -7,7 +7,7 @@ order: 4
 ![A white man with a shaved head, beard and glasses looking into the camera while a small grey cat sleeps on his chest](/assets/img/avatar250.jpg){: .right width=300}
 
 ### Bas
-I'm a Dutch native, Scotland based, 40-something who makes cheese, crochets, walks up the down escalator for significant distances.
+I'm a Dutch native, Scotland based, 40-something who makes cheese, crochets, walks up the down escalator until I'm in Spaces.
 
 #### In this house 
 - We recognise trans women are women and trans men are men
