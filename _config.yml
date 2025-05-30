@@ -28,6 +28,9 @@ url: "https://captainNerdBeard.github.io"
 github:
   username: captainNerdBeard # change to your github username
 
+fediverse:
+  creator: "@CaptainNerdBeard@mastodon.scot"
+
 #twitter:
 #  username: twitter_username # change to your twitter username
 
